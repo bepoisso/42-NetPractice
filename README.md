@@ -16,7 +16,7 @@ Net Practice is a project that introduces you to networking concepts through pra
 The objective of this project is to understand how IP addressing, routing, and TCP/IP addressing work by solving real-world networking problems.
 
 ## Useful Resources
-
+<li><a href="https://www.youtube.com/watch?app=desktop&v=HQUw0CfQWAM&t=0s">NetPractice: An Intro to IP Addresses and Subnets</a></li>
 <li><a href="https://www.cisco.com/c/en/us/training-events/training-certifications/overview.html">Cisco Networking Academy</a></li>
 
 ## Mandatory Part
