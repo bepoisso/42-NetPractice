@@ -36,4 +36,12 @@ Each level presents a broken network diagram with a goal to achieve. You need to
 
 - You must submit **10 files**, one per level, in your Git repository.  
 - During the defense, you will need to validate **3 random levels** within a limited time.  
-- Your work will be evaluated based solely on the files present in your repository.  
+- Your work will be evaluated based solely on the files present in your repository.
+
+## Disclamer
+- 🇬🇧 This project has an educational purpose and you should under no circumstances copy and paste. Cheat is bad. Dont cheat
+
+- 🇫🇷 Ce projet a un but educatif et vous ne devez en auccun cas faire du copier coller. Tricher c'est mal. Ne trichez pas
+
+----
+©42Perpignan(bepoisso)
